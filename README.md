@@ -1,1 +1,2 @@
-# mail-merge
+# Mail Merge Project
+This is a simple study for file reading, writing etc...
